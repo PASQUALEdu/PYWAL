@@ -1,0 +1,9 @@
+sudo apt install imagemagick
+
+sudo apt install python3-pip
+
+sudo pip3 install pywal
+
+nano .bashrc
+
+wal -n -q -1  'directorio' 
